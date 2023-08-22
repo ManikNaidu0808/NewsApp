@@ -1,0 +1,117 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Marc Jones",
+            "title": "Shares and euro climb ahead of ECB rate meeting - Reuters",
+            "description": "World shares were at a 15-month high and the euro climbed on Thursday as focus shifted from a widely-expected nudge up in U.S. interest rates to what is almost certain to be a similar move by the European Central Bank later.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-07-27/",
+            "urlToImage": "https://www.reuters.com/resizer/cxpRVXQCZVKvUa1zFhvsYw_eAOU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2BF2FX67VVPCZA42YGNBLZBN7U.jpg",
+            "publishedAt": "2023-07-27T08:39:00Z",
+            "content": "LONDON, July 27 (Reuters) - World shares were at a 15-month high and the euro climbed on Thursday as focus shifted from a widely-expected nudge up in U.S. interest rates to what is almost certain to … [+4395 chars]"
+        },
+
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Twitter rebrands its Android app with the new X logo - TechCrunch",
+            "description": "Twitter has updated its Android app by replacing the iconic bird logo with the new X logo in the latest step of its rebranding efforts.",
+            "url": "https://techcrunch.com/2023/07/26/twitter-rebrands-its-android-app-with-the-new-x-logo/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter-1.jpg?resize=1200,800",
+            "publishedAt": "2023-07-27T06:40:08Z",
+            "content": "Twitter updated its Android app today by replacing the iconic bird logo with its new X logo the latest step in its ongoing rebranding efforts.\r\nThe company also updated its app listing on the Google … [+1173 chars]"
+        },
+
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sarah Dean, Niamh Kennedy, Larry Madowo",
+            "title": "Niger soldiers claim President Mohamed Bazoum has been ousted, deepening coup fears - CNN",
+            "description": "Men in military fatigues claimed to have taken power in Niger hours after President Mohamed Bazoum was reportedly seized by members of the presidential guard on Wednesday, sparking international condemnation and renewed uncertainty in a volatile part of Afric…",
+            "url": "https://www.cnn.com/2023/07/26/africa/niger-presidency-attempted-coup-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230726122559-01-niger-president-mohamed-bazoum-file-062323.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-27T05:05:00Z",
+            "content": "Men in military fatigues claimed to have taken power in Niger hours after President Mohamed Bazoum was reportedly seized by members of the presidential guard on Wednesday, sparking international cond… [+7093 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Caitlin Murray",
+            "title": "Horan: Anger fueled goal in USWNT tie with Netherlands - ESPN - ESPN",
+            "description": "Lindsey Horan said it was a bruising tackle from club teammate Danielle van de Donk and their tense exchange that fueled her equalizer against the Netherlands",
+            "url": "https://www.espn.com/soccer/story/_/id/38078791/horan-anger-fueled-goal-uswnt-tie-netherlands",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0727%2Fr1202745_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-07-27T05:01:00Z",
+            "content": "WELLINGTON, New Zealand -- You don't want to make Lindsey Horan angry.\r\nThe U.S. women's national team midfielder said it was a bruising tackle from club teammate Danielle van de Donk and their tense… [+3777 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hyunsu Yim, Josh Smith",
+            "title": "North Korea's Kim shows off banned missiles to Russian minister - Reuters",
+            "description": "Russia's defence minister accompanied North Korean leader Kim Jong Un to a defence exhibition that featured the North's banned ballistic missiles as the neighbours pledged to boost ties, North Korean state media reported on Thursday.",
+            "url": "https://www.reuters.com/world/north-koreas-kim-jong-un-meets-russian-defence-minister-2023-07-27/",
+            "urlToImage": "https://www.reuters.com/resizer/rZZpcXzQeZUbNkS9_0UbXAO6Hdc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NTKB5PLI6JKA5DIGVQRMRR5AXU.jpg",
+            "publishedAt": "2023-07-27T04:34:06Z",
+            "content": "SEOUL, July 27 (Reuters) - Russia's defence minister accompanied North Korean leader Kim Jong Un to a defence exhibition that featured the North's banned ballistic missiles as the neighbours pledged … [+5928 chars]"
+        },
+
+  
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Missing Glendale teen, Alicia Navarro, reunited with her family after four years - USA TODAY",
+            "description": "Alicia Navarro, 18, was located in a small Montana town after she went missing in September 2019 from her childhood home in Glendale.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/07/26/alicia-navarro-found-after-four-years-missing/70474392007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/07/27/USAT/fcd4cc2a-8a7e-48c6-9ba3-968568ebc41c-Alicia_Navarro.JPG?auto=webp&crop=733,413,x0,y159&format=pjpg&width=1200",
+            "publishedAt": "2023-07-27T03:27:43Z",
+            "content": "Missing Glendale teenager Alicia Navarro has been located in a small Montana town after vanishing without a trace four years ago, police announced Wednesday.\r\nThe former Arizona resident was found sa… [+5565 chars]"
+        },
+
+
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Russia-Ukraine war: List of key events, day 519 - Al Jazeera English",
+            "description": "These are the main developments as the Russian invasion of Ukraine enters its 519th day.",
+            "url": "https://www.aljazeera.com/news/2023/7/27/russia-ukraine-war-list-of-key-events-day-519",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/2023-07-22T092530Z_577536941_RC2Y42AEJO8J_RTRMADP_3_UKRAINE-CRISIS-CRIMEAN-BRIDGE-1690416596.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-07-27T01:35:52Z",
+            "content": "Here is the situation on Thursday, July 27, 2023.\r\nFighting\r\n<ul><li>Two people were killed in Russian attacks on Donetsk in eastern Ukraine, according to Governor Pavlo Kyrylenko. One person was kil… [+4949 chars]"
+        },
+
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mary Kekatos, Dr. Shalini Dutta",
+            "title": "1 in 6 toddlers have not completed childhood vaccine series, study finds - ABC News",
+            "description": "Routine childhood vaccines include the MMR and chickenpox vaccines.",
+            "url": "https://abcnews.go.com/Health/1-6-toddlers-completed-childhood-vaccine-series-study/story?id=101664925",
+            "urlToImage": "https://s.abcnews.com/images/Health/vaccine-2-rf-gty-bb-230726_1690381168114_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-07-27T01:01:20Z",
+            "content": "Several routine childhood vaccines require multiple doses to be effective, but a new study finds children are not receiving all of them.\r\nThe study, published in the journal Pediatrics Wednesday, fou… [+5498 chars]"
+        }
+    ]
+}
